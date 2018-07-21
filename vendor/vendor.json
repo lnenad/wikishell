@@ -1,0 +1,73 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "U9dV16I2PX1dl0/0zR5urQ4BFOg=",
+			"path": "github.com/gdamore/encoding",
+			"revision": "b23993cbb6353f0e6aa98d0ee318a34728f628b9",
+			"revisionTime": "2015-12-15T21:28:35Z"
+		},
+		{
+			"checksumSHA1": "42EfK/tHwRaqIMbc5wY5mizscjI=",
+			"path": "github.com/gdamore/tcell",
+			"revision": "de7e78efa4a71b3f36c7154989c529dbdf9ae623",
+			"revisionTime": "2018-06-16T22:44:25Z"
+		},
+		{
+			"checksumSHA1": "VwKpgj2sVOTSy9qxdM4oPooHfW8=",
+			"path": "github.com/gdamore/tcell/terminfo",
+			"revision": "de7e78efa4a71b3f36c7154989c529dbdf9ae623",
+			"revisionTime": "2018-06-16T22:44:25Z"
+		},
+		{
+			"checksumSHA1": "0hKJQn1uFpZS4fIHflP9Lyl2BjE=",
+			"path": "github.com/grokify/html-strip-tags-go",
+			"revision": "3f8856873ce5730282807732a0413fcf7c98cc58",
+			"revisionTime": "2018-05-30T08:05:03Z"
+		},
+		{
+			"checksumSHA1": "MH58sYwJL1wUZzOFqgfiPJvoeb0=",
+			"path": "github.com/lucasb-eyer/go-colorful",
+			"revision": "c7842319cf3ac2eff253e8b3ebe15fcc56b6414a",
+			"revisionTime": "2018-07-09T18:58:58Z"
+		},
+		{
+			"checksumSHA1": "veKBU5FJfGTojLA0p08KGCFowno=",
+			"path": "github.com/mattn/go-runewidth",
+			"revision": "ce7b0b5c7b45a81508558cd1dba6bb1e4ddb51bb",
+			"revisionTime": "2018-04-08T05:53:51Z"
+		},
+		{
+			"checksumSHA1": "7sM0tWZLQWYgjZuSniTDZLrQl1I=",
+			"path": "github.com/mitchellh/go-wordwrap",
+			"revision": "ad45545899c7b13c020ea92b2072220eefad42b8",
+			"revisionTime": "2015-03-14T17:03:34Z"
+		},
+		{
+			"checksumSHA1": "yY2RjdBB8OGhGtpReL20t3cZtv0=",
+			"path": "github.com/rivo/tview",
+			"revision": "7338a21d35211ad7c94c14116c01b4092b78bb3d",
+			"revisionTime": "2018-07-16T06:44:19Z"
+		},
+		{
+			"checksumSHA1": "Mr4ur60bgQJnQFfJY0dGtwWwMPE=",
+			"path": "golang.org/x/text/encoding",
+			"revision": "0605a8320aceb4207a5fb3521281e17ec2075476",
+			"revisionTime": "2018-07-08T16:53:44Z"
+		},
+		{
+			"checksumSHA1": "7kYqxy64WhMjFIFZgN7tJ3lbKxM=",
+			"path": "golang.org/x/text/encoding/internal/identifier",
+			"revision": "0605a8320aceb4207a5fb3521281e17ec2075476",
+			"revisionTime": "2018-07-08T16:53:44Z"
+		},
+		{
+			"checksumSHA1": "ziMb9+ANGRJSSIuxYdRbA+cDRBQ=",
+			"path": "golang.org/x/text/transform",
+			"revision": "0605a8320aceb4207a5fb3521281e17ec2075476",
+			"revisionTime": "2018-07-08T16:53:44Z"
+		}
+	],
+	"rootPath": "/wikiquestion"
+}
