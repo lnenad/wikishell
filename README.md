@@ -9,10 +9,10 @@ This is a repository for an application used for browsing wikipedia using your s
 To install/build the application run 
 
 ```shell
-$ go build main.go
+$ go build
 ```
 
-You should have a binary for the application in your `${gopath}/bin` directory
+You should have a binary for the application in your project directory.
 
 ## Usage
 
